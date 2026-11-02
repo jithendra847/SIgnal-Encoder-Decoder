@@ -101,7 +101,6 @@ DC_Assignment/
 | Technology | Purpose |
 |---|---|
 | **Python 3.10+** | Main programming language |
-| **NumPy** | Numerical operations where required |
 | **Matplotlib** | Plotting digital waveforms and analog reconstructions |
 | **Pillow** | Reading PNG images and sampling waveform pixels |
 | **unittest** | Automated testing |
