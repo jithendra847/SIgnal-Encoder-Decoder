@@ -7,7 +7,6 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3.10%2B-blue?logo=python&logoColor=white" alt="Python 3.10+">
-  <img src="https://img.shields.io/badge/NumPy-Numerical%20Computing-013243?logo=numpy&logoColor=white" alt="NumPy">
   <img src="https://img.shields.io/badge/Matplotlib-Visualization-11557c" alt="Matplotlib">
   <img src="https://img.shields.io/badge/Pillow-Image%20Processing-green" alt="Pillow">
   <img src="https://img.shields.io/badge/Project-Data%20Communication-orange" alt="Data Communication">
@@ -300,7 +299,6 @@ The tests should cover the implemented functions, including:
 ### Learning Resources and Documentation
 
 - [DeepLearning.AI — AI Python for Beginners](https://www.deeplearning.ai/courses/ai-python-for-beginners) — Used to learn Python fundamentals, functions, working with modules, and using external libraries.
-- [NumPy Official Documentation](https://numpy.org/doc/stable/) — Consulted for numerical operations and array-related concepts.
 - [Matplotlib Official Documentation](https://matplotlib.org/stable/) — Consulted for plotting digital waveforms and reconstructed staircase signals.
 
 
