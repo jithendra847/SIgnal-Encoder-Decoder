@@ -33,8 +33,8 @@ LINE_SCHEMES = {
 }
 
 SCRAMBLERS = {
-    "2": ("B8ZS", encode_b8zs, "b8zs"),
-    "3": ("HDB3", encode_hdb3, "hdb3"),
+    "1": ("B8ZS", encode_b8zs, "b8zs"),
+    "2": ("HDB3", encode_hdb3, "hdb3"),
 }
 
 
